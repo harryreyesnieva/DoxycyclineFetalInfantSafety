@@ -5,7 +5,7 @@ Evaluating the Fetal and Infant Safety of Doxycycline
 
 -   Analytics use case(s): **Characterization**
 -   Study type: **Methods Research, Clinical Application**
--   Tags: **doxycycline, fetus, infant, major congenital malformations, mother-infant linkage**
+-   Tags: **doxycycline, fetus, infant, major congenital malformations, mother-infant data linkage**
 -   Study lead: **Harry Reyes Nieva, PhD, MAS**
 -   Study lead forums tag: **-**
 -   Study start date: **-**
