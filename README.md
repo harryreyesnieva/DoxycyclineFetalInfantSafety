@@ -10,6 +10,6 @@ Evaluating the Fetal and Infant Safety of Doxycycline
 -   Study lead forums tag: **-**
 -   Study start date: **-**
 -   Study end date: **-**
--   Protocol: **-**
+-   Protocol: **[Version 0.1](https://github.com/harryreyesnieva/DoxycyclineFetalInfantSafety/blob/master/Protocol_DoxyFetalInfantSafety.pdf)**
 -   Publications: **-**
 -   Results explorer: **-**
