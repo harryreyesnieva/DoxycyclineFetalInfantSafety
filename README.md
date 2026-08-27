@@ -7,7 +7,7 @@ Evaluating the Fetal and Infant Safety of Doxycycline
 -   Study type: **Methods Research, Clinical Application**
 -   Tags: **doxycycline, fetus, infant, major congenital malformations, mother-infant linkage**
 -   Study lead: **Harry Reyes Nieva, PhD, MAS**
--   Study lead forums tag: [**noemie**](https://forums.ohdsi.org/u/noemie)
+-   Study lead forums tag: **-**
 -   Study start date: **-**
 -   Study end date: **-**
 -   Protocol: **-**
